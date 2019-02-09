@@ -7,4 +7,4 @@ _Recap_ modules.
 
 References
 ---
-[Barba, Lorena A.; Clementi, Natalia C. (2017): Engineering Computations Module 1: Get data off the ground.] (https://figshare.com/articles/Engineering_Computations_Module_1_Get_data_off_the_ground/5673454/1)
+[Barba, Lorena A.; Clementi, Natalia C. (2017): Engineering Computations Module 1: Get data off the ground.](https://figshare.com/articles/Engineering_Computations_Module_1_Get_data_off_the_ground/5673454/1)
