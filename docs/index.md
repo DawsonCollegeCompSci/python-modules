@@ -14,5 +14,5 @@ Books
 The following books are available online or free download. Not all have been vetted.
 
 
-[Python for Everybody: Exploring Data Using Python 3 (2016). Charles R. Severance](https://www.py4e.com/book.php)
+[Python for Everybody: Exploring Data Using Python 3 (2016). Charles R. Severance](https://www.py4e.com/book.php)  
 [Think Python: How to Think Like a Computer Scientist (2012). Allen Downey. Green Tea Press](http://greenteapress.com/thinkpython/)
