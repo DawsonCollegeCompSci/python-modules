@@ -13,6 +13,7 @@ A word about the environment: the lessons are packaged in Jupyter Notebooks. You
 References for course material
 ---
 [Barba, Lorena A.; Clementi, Natalia C. (2017): Engineering Computations Module 1: Get data off the ground.](https://figshare.com/articles/Engineering_Computations_Module_1_Get_data_off_the_ground/5673454/1)
+[Zingaro, Daniel: CS1 in Python Peer Instruction Materials](http://www.peerinstruction4cs.org/2013/07/25/cs1-in-python-peer-instruction-materials/)
 
 Books
 ---
