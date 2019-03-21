@@ -2,10 +2,13 @@ Welcome
 ===
 
 This is a set of learning modules designed to create a foundational knowledge in Python.
-It has modules for complete beginners; programmers experienced with other languages can focus on the _Deep-Dive_ or
-_Recap_ modules.  
+If you are a complete beginner, start here: [Starting programming with Python](https://colab.research.google.com/github/DawsonCollegeCompSci/python-modules/blob/master/notebooks/Basics/1-Start.ipynb)
+Programmers experienced with other languages can start here: [Python for Java programmers](https://colab.research.google.com/github/DawsonCollegeCompSci/python-modules/blob/master/notebooks/Experienced/syntaxrecap.ipynb)
 
-A word about the environment: the lessons are packaged in Jupyter Notebooks. You have a number of options for proceeding, depending on your experience:
+
+About the environment
+---
+The lessons are packaged in Jupyter Notebooks. You have a number of options for proceeding, depending on your experience:
 1. Follow the lesson links provided. This will open a Google Colaboratory interactive session where you can run the code provided, edit it, and generally play around. This is the recommended approach for this course. NOTE: Google Chrome is the recommended browser
 2. Project Jupyter offers the free Binder service, which also provides an interactive environment. Note that all notebooks have not been validated for look & feel against Binder (in particular, Colaboratory uses a dialect of Markdown) but the code cells should all work
 3. Fork this repository and run the notebooks locally. We recommend that you download Anaconda for a complete Python development environment locally.
